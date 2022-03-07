@@ -1,260 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47447666-203b-4c51-9341-5dd94d86f019" name="Default Changelist" comment="blog 项目">
-      <change afterPath="$PROJECT_DIR$/.idea/blog-vue-springboot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_portlet_4_3_13_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/blog-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/BlogApiApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/annotation/LogAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/aspect/LogAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/cache/RedisManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/constant/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/constant/ResultCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/controlleradvice/ClearTokenResponseBodyAdvice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/controlleradvice/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/entity/BaseEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/exception/BaseException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/interceptor/ClearTokenInteceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/json/ExtGenericFastJsonRedisSerializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/result/ParameterInvalidItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/result/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/util/HttpContextUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/util/IpUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/util/PasswordHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/util/StringUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/common/util/UserUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/config/FilterConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/config/RedisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/config/ShiroConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/config/WebMvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/controller/ArticleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/controller/CategoryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/controller/CommentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/controller/TagController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/controller/UploadController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/entity/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/entity/ArticleBody.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/entity/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/entity/Comment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/entity/Log.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/entity/Tag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/entity/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/entity/UserStatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/oauth/OAuthRealm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/oauth/OAuthSessionDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/oauth/OAuthSessionManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/ArticleRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/CategoryRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/CommentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/LogRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/TagRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/impl/ArticleRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/impl/CategoryRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/impl/TagRepositoryImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/wrapper/ArticleWrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/wrapper/CategoryWrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/repository/wrapper/TagWrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/ArticleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/CategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/CommentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/LogService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/TagService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/impl/ArticleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/impl/CategoryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/impl/CommentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/impl/LogServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/impl/TagServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/vo/ArticleVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/vo/CategoryVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/vo/PageVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/com/shimh/vo/TagVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/ehcache.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/log4j2-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/sql/blog-data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/sql/blog-schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/category/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/category/database.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/category/front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/category/language.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/category/lift.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/css/app.3da4c4025c3d262c99005e6d56f618da.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/css/app.3da4c4025c3d262c99005e6d56f618da.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/fonts/element-icons.6f0a763.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/fonts/fontello.068ca2b.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/fonts/fontello.e73a064.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/img/fontello.9354499.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/img/logo.0e3a2b5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/0.541abc7eadbe6ddede6b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/0.541abc7eadbe6ddede6b.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/1.da4d60dbb1e419b79334.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/1.da4d60dbb1e419b79334.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/10.1579b3dea41e058f6854.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/10.1579b3dea41e058f6854.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/2.0370259fb135c1a2874f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/2.0370259fb135c1a2874f.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/3.79609af231a14d8b8ead.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/3.79609af231a14d8b8ead.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/4.c7f328ba5f9024f47eec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/4.c7f328ba5f9024f47eec.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/5.6755010dd4d3be54a6e9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/5.6755010dd4d3be54a6e9.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/6.7b33be54a485e77ca738.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/6.7b33be54a485e77ca738.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/7.f4c65b7448ee57cb7093.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/7.f4c65b7448ee57cb7093.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/8.da0debd7d5ff290e65df.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/8.da0debd7d5ff290e65df.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/9.b0704b91f93999a0fbd7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/9.b0704b91f93999a0fbd7.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/app.038f0f2e05268d414625.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/app.038f0f2e05268d414625.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/manifest.3bb8237077028ff666e9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/manifest.3bb8237077028ff666e9.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/vendor.9084f246f10e25c4ce63.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/js/vendor.9084f246f10e25c4ce63.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/tag/css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/tag/hibernate.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/tag/html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/tag/java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/tag/js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/tag/maven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/tag/vue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/user/admin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/user/user_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/user/user_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/user/user_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/user/user_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/user/user_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/user/user_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/classes/static/vedio/sea.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/BlogApiApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/controller/UserControllerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/dao/CategoryRepositoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/dao/CommentRepositoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/json/JSONTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/log/LogTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/redis/RedisManagerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/result/ResultTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/service/ArticleServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/service/CategoryServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/service/TagServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-api/target/test-classes/com/shimh/service/UserServiceTest.class" afterDir="false" />
+    <list default="true" id="47447666-203b-4c51-9341-5dd94d86f019" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -364,6 +112,7 @@
       <updated>1646610765573</updated>
       <workItem from="1646610769717" duration="6517000" />
       <workItem from="1646620577204" duration="524000" />
+      <workItem from="1646621256770" duration="1870000" />
     </task>
     <task id="LOCAL-00001" summary="blog 项目">
       <created>1646619708289</created>
@@ -372,11 +121,29 @@
       <option name="project" value="LOCAL" />
       <updated>1646619708289</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="blog 项目">
+      <created>1646621277541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646621277541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -392,10 +159,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="661" y="353" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1646613987723" />
-    <state x="360" y="9" key="CommitChangelistDialog2" timestamp="1646620722829">
+    <state x="360" y="9" key="CommitChangelistDialog2" timestamp="1646621273432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="360" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1646620722829" />
+    <state x="360" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1646621273432" />
     <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1646620660646">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
